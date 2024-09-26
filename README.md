@@ -33,7 +33,7 @@ Este é um sistema para gestão e acompanhamento de investimentos, permitindo qu
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/LucasAlexandree/InvestmentManagerAPI.git
     cd nome-do-repositorio
     ```
 
